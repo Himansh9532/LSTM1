@@ -1,0 +1,4 @@
+ text=auto
+
+ Explicitly declare files that should have CRLF line endings on checkout
+.pb2.py text eol=crlf
