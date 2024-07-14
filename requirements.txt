@@ -6,4 +6,4 @@ scikit-learn
 yfinance
 keras
 streamlit==1.36.0
-tensorflow
+tensorflow==2.14.0
