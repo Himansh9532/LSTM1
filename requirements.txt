@@ -1,10 +1,10 @@
 matplotlib
 pandas
-numpy==2.0.0
+numpy
 seaborn
 scikit-learn
 yfinance
 keras
 streamlit==1.36.0
 tensorflow
-keras
+
