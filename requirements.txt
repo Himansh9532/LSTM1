@@ -6,5 +6,6 @@ scikit-learn
 yfinance
 keras
 streamlit==1.36.0
+gunicorn
 tensorflow
 
